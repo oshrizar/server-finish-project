@@ -1,0 +1,20 @@
+[
+  {
+    "title": "23.8' Computer Screen",
+    "description": "A 23.8-inch computer screen is a compact and versatile display with a screen size of 23.8 inches measured diagonally. It offers a balance between space efficiency and immersive viewing, making it suitable for various tasks, including work, gaming, and entertainment. With crisp visuals and a moderate footprint, it's a popular choice for those seeking a mid-sized monitor for their computing needs.",
+    "price": 189,
+    "stock": 400
+  },
+  {
+    "title": "Logitech Mouse",
+    "description": "The Logitech Mouse is a reliable and ergonomically designed computer peripheral that offers precision and comfort for navigating and interacting with your digital world. With customizable features and seamless connectivity, it's the perfect companion for work or play.",
+    "price": 80,
+    "stock": 120
+  },
+  {
+    "title": "Headphones Stand",
+    "description": "A headphones stand is a sleek and functional accessory designed to neatly hold and display your headphones when they're not in use. It helps keep your headphones organized, prevents them from tangling, and adds a stylish touch to your workspace or entertainment area.",
+    "price": 30,
+    "stock": 150
+  }
+]

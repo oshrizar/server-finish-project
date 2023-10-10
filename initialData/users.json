@@ -1,0 +1,21 @@
+[
+  {
+    "name": {
+      "first": "israel",
+      "last": "israeli"
+    },
+    "gender": "male",
+    "email": "israel@gmail.com",
+    "password": "Aa123456!",
+    "isAdmin": true
+  },
+  {
+    "name": {
+      "first": "ploni",
+      "last": "almoni"
+    },
+    "gender": "other",
+    "email": "ploni@gmail.com",
+    "password": "Aa123456!"
+  }
+]
